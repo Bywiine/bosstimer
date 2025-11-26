@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "bosstimer",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f81c6e8b-7f9d-4f73-b454-63f8ee271cd7",
+      "database_name": "boss_timer_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
